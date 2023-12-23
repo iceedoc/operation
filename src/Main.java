@@ -81,7 +81,7 @@ public class Main {
 
 
 
-        System.out.println("ЧУВСТВУЮ ЧТО НЕ ПРАВИЛЬНО ВСЕ!!");
+        System.out.println("ЧУВСТВУЮ ЧТО НЕ ПРАВИЛЬНО ВСЕ");
 
 
 
